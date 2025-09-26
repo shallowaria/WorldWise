@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "id": "3a07",
+      "cityName": "Assoul",
+      "country": "Morocco",
+      "emoji": "🇲🇦",
+      "date": "2025-08-27T11:09:54.458Z",
+      "notes": "123",
+      "position": {
+        "lat": "32.10876498072038",
+        "lng": "-4.963914525973051"
+      }
+    },
+    {
+      "id": "fbc4",
+      "cityName": "Ya'an",
+      "country": "China",
+      "emoji": "🇨🇳",
+      "date": "2025-08-27T11:10:20.868Z",
+      "notes": "123",
+      "position": {
+        "lat": "29.31025814178209",
+        "lng": "102.59126522985736"
+      }
+    }
+  ]
+}
